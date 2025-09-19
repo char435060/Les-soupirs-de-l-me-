@@ -1,0 +1,61 @@
+header{
+  background-image: url('images/baniere.jpg') ;
+}
+nav{
+  font-family: sans-serif ;
+  font-size: 1.5em;
+  font-weight: 700 ;
+}
+
+h1{
+  text-align: center;
+  padding: 150 px;
+  font-family: sans serif;
+  color: cornsilk;
+  font-size: 2em;
+  padding: 30px;
+  background-position: center;
+  opacity: 0.6;
+}
+p1{
+  font-family: sans-serif ;
+  text-align: center;
+  background-position: center;
+  font-size: 1em;
+  font-weight: 500 ;
+  color: blue; 
+}
+p11{
+  font-family: sans-serif ;
+  text-align: center;
+  background-position: center;
+  font-size: 1em;
+  font-weight: 500 ;
+  color: chocolate; 
+}
+h2{
+   font-family: sans serif;
+  color: aqua; 
+  font-size: 1.em;
+  background-color: deeppink;
+}
+.introduce{
+  color : blue ;
+}
+.char{
+  color : chocolate;
+  font-weight: 700;
+}
+p3{
+  text-align: left;
+  color: gray;
+  opacity: 0.5;
+}
+p10{
+  background-color: blanchedalmond;
+}
+body {
+  background-color: bisque;
+  
+}
+‎
